@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aditi!
-- 👀 I’m interested in Web Development even though I enjoy DSA as well.
+- 👋 Hi, I’m Aditi Igade!
+- 👀 I’m interested in Web Development even though I enjoy DSA as well :smile:.
 - 🌱 I’m currently learning Wordpress.
 
 <!---
